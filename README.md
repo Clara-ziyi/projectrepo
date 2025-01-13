@@ -1,1 +1,1 @@
-This is my first local repository and remote repository.
+This is my first repository.
